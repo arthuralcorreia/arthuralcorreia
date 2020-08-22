@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m Arthur, a 23 years old Brazilian software engineer. Currently i'm looking for job opportunities to launch my career, i love solving problems with code.
+
+## Programming languages
+
+### What I like
+
+- Python
+- JavaScript 
+- C#
+
+### I'm learning:
+
+- *DotNet*
+: I'm really locking for jobs opportunities in this moment and in Sao Paulo C# it's burnning 🔥
+
+### I'm really curious about
+
+- *Ruby on Rails*
+- *Phoenix framework*
+
+### I'm looking to colaborate on
+
+Open source frameworks.
+
+### How to reach me:
+
+[linkedin](https://www.linkedin.com/in/arthuralvescorrea/)
