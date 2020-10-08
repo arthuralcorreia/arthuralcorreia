@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m Arthur, a 23 years old Brazilian software engineer. Currently i'm working in Clube Quindin as a Software Engenier.
+I’m Arthur, a 23 years old Brazilian software engineer. Currently i'm working in Clube Quindin as a Software Engineer.
 
 ## Programming languages
 
