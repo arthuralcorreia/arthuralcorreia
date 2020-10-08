@@ -25,11 +25,6 @@ I’m Arthur, a 23 years old Brazilian software engineer. Currently i'm working 
 - JavaScript 
 - C#
 
-### I'm learning:
-
-- *DotNet*
-: I'm really locking for jobs opportunities in this moment and in Sao Paulo C# it's burnning 🔥
-
 ### I'm really curious about
 
 - *Ruby on Rails*
@@ -38,6 +33,7 @@ I’m Arthur, a 23 years old Brazilian software engineer. Currently i'm working 
 ### I'm looking to colaborate on
 
 Open source frameworks.
+Tolls for development (Imnsonia for example)
 
 ### How to reach me:
 
