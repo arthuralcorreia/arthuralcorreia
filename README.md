@@ -22,12 +22,11 @@ I’m Arthur, a 23 years old Brazilian software engineer. Currently i'm working 
 ### What I like
 
 - Python
-- JavaScript 
-- C#
+- JavaScript (Vue JS)
+- Java
 
 ### I'm really curious about
 
-- *Ruby on Rails*
 - *Phoenix framework*
 
 ### I'm looking to colaborate on
